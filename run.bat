@@ -16,6 +16,7 @@ echo [REQUIREMENTS]
 echo   1. Requires Laravel 10 or above
 echo   2. PHP 8.1+ must be installed
 echo   3. Composer must be installed
+echo   4. Run : composer install
 echo.
 echo ================================================================================
 echo [ACCESS INFORMATION]
